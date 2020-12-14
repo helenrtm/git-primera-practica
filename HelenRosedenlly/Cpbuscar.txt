@@ -1,4 +1,4 @@
-1. DESCRIPCION
+1. DESCRIPCIÓN
    "BUSCAR ZAPATILLA"
 Realizar la búsqueda de zapatillas, seleccionarlo y verificar el resultado
 
